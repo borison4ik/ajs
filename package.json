@@ -1,0 +1,19 @@
+{
+  "name": "@borison4ik/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borison4ik/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borison4ik/ajs/issues"
+  },
+  "homepage": "https://github.com/borison4ik/ajs#readme"
+}
